@@ -1,0 +1,21 @@
+
+body{
+    background:url(images/Android\ Small\ -\ 1.png)no-repeat center center fixed; 
+     -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+    
+.text-center{
+        margin-bottom:50px;
+        color:rgba(184, 184, 184, 1)
+    }
+    span{
+        font-size: larger;
+    }
+    a{
+        text-decoration: none;}
+       
+
+    
